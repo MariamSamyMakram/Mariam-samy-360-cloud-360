@@ -1,0 +1,49 @@
+.markup {
+    background-color: #fff;
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.markup .link {
+    color: #fff;
+    background-color: #000;
+    padding: 10px 20px;
+    border-radius: 50px;
+    text-decoration: none;
+}
+
+.markup .link:hover {
+    color: #fff;
+    background-color: #ba940c;
+}
+
+.markup .map {
+    height: 500px;
+    margin-bottom: 80px;
+}
+
+.markup .map iframe {
+    position: relative !important;
+}
+
+.markup .form-group {
+    display: flex;
+}
+
+.markup .form-group label {
+    color: #000;
+    font-size: 26px;
+    font-weight: 600;
+}
+
+.markup button {
+    color: #000;
+    background-color: #d3aa16;
+    border-color: #d3aa16;
+}
+
+.markup button:hover {
+    color: #fff;
+    background-color: #ba940c;
+    border-color: #ba940c;
+}
